@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitkadam4
+- 👋 Hi, I’m amit kadam
 - 👀 I’m interested in big data applications, streaming with Kafka,Nifi and other java implementaions
 - 🌱 I’m currently learning devops and cloud services (AWS, GCP, Azure)
 - 💞️ I’m looking to collaborate on bigdata application architecures
